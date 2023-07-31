@@ -21,4 +21,4 @@ function showingUsers (users){
 //And finally, show the result through a console.log
 console.log(showingUsers(data))
 
-//normally if this is correct you should push this to your github repository, but, lets imagine that you forgot to add another person on the data array and you already pushed this branch, now let's see the example2.js file
+//normally if this is correct you should push this to your github repository, but, lets imagine that you forgot to add another person on the data array and you haven't pushed your branch to github but you already had commited your changes, now, lets see the expample2.js file
