@@ -23,3 +23,4 @@ function showingUsers (users){
 console.log(showingUsers(data))
 
 //now, everything is correct, and you should use the git --ammend comand to rebase your branch locally before to push this branch to your github repository
+//also, if you want to update your commit message too, you can use git --amend "*new message*" changing the *new message* script with wathever thing that you want to write
